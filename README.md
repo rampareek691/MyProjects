@@ -1,1 +1,14 @@
-# MyProjects
+1. Book Inventory System:-
+  The task is to build the bookshop management system using file handling in C++ that helps to keep track of all the book records in a file. Below are the features to be implemented:
+
+  Add new book and the details of the book are:
+  Book ID
+  Name of book
+  Name of Author
+  Number of books
+  Delete a book
+  Update a book
+  View all the books
+  Exit
+2. Data Clustering based on covid-19 vaccination database
+   includes: report
